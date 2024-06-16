@@ -1,7 +1,7 @@
 ## ⚡ Discord Poll Bot Source
 I made the promise to release source code for applications that we create that I don't think is worth making an app for.
 
-## 💡 Poll Bot eatures:
+## 💡 Poll Bot Features:
 > Create a poll
 
 > Accept a poll
