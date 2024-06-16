@@ -16,4 +16,5 @@ I made the promise to release source code for applications that we create that I
 
 In the following days we'll hopefully be releasing one bot a day until we run out, hope you guys enjoy! 
 
-### 💎 support at https://discord.gg/loops ( full credits too loops CEO: Dadixi || 356467876959617025 )
+### 💎 support
+You can find support at https://discord.gg/loops & full credits to loops CEO: Dadixi || 356467876959617025 
