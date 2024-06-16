@@ -15,3 +15,5 @@ I made the promise to release source code for applications that we create that I
 > Coded in JavaScript
 
 In the following days we'll hopefully be releasing one bot a day until we run out, hope you guys enjoy! 
+
+### support at (our discord server)[https://discord.gg/loops]
